@@ -1,6 +1,0 @@
-# 说明
-
-此为 lzx 的个人主页，可在 <http://lzx19.top> 访问
-
-改编自 <https://github.com/dmego/home.github.io/>
-
