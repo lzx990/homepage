@@ -25,6 +25,7 @@ const bookmarks = [
     title: "项目们",
     links: [
       { name: "CZJOI", url: "https://hydro.ac/d/czjoi/" },
+      { name: "Luogu Card", url: "http://lzx19.top/lgcard/" },
     ],
   },
   {
